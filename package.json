@@ -1,0 +1,16 @@
+{
+  "weather": {
+    "temp": 30.5,
+    "humidity": 70
+  },
+  "airQuality": {
+    "aqi": 120,
+    "pm25": 35
+  },
+  "vaccination": {
+    "rate": 75
+  },
+  "disease": {
+    "riskLevel": "Moderate"
+  }
+}
